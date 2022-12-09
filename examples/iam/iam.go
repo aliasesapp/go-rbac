@@ -3,7 +3,7 @@ package iam
 import (
 	"fmt"
 
-	"github.com/zpatrick/rbac"
+	"github.com/aliasesapp/go-rbac"
 )
 
 // NewAdminRole returns a rbac.Role that can do any action on any target.
